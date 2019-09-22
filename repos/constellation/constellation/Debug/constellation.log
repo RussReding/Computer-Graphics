@@ -1,0 +1,2 @@
+﻿  constellation.cpp
+C:\Users\Russell Reding\source\repos\constellation\constellation\constellation.cpp(39,24): error C2065:  'processMenuEvents': undeclared identifier
