@@ -1,2 +1,3 @@
 ﻿  Vector_Math.cpp
+C:\Users\Russell Reding\source\repos\Vector_Math\Vector_Math\Vector_Math.cpp(46): warning C4717:  'printMenu': recursive on all control paths, function will cause runtime stack overflow
   Vector_Math.vcxproj -> C:\Users\Russell Reding\source\repos\Vector_Math\Debug\Vector_Math.exe
